@@ -13,3 +13,8 @@ A clean and simple to-do list web app built with HTML, CSS, and JavaScript. Add 
 - HTML5
 - CSS3
 - JavaScript
+
+## 🔗 Live Demo
+
+View the app here: 
+
