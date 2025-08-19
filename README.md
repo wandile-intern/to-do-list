@@ -16,5 +16,5 @@ A clean and simple to-do list web app built with HTML, CSS, and JavaScript. Add 
 
 ## 🔗 Live Demo
 
-View the app here: 
+View the app here: https://wandile-intern.github.io/to-do-list/
 
